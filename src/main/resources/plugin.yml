@@ -1,0 +1,10 @@
+name: AdvancedCrafting
+version: ${project.version}
+main: de.ximanton.advancedtools.Main
+api-version: 1.16
+prefix: AdvancedCrafting
+authors: [xImAnton_]
+description: A RPG Crafting-Plugin for making tool crafting harder but the tools better
+commands:
+  game:
+    description: Force starts the minigame
