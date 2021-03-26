@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="advancedcrafting">
+    <output-path>$PROJECT_DIR$/../Weihnachtsseason/plugins</output-path>
+    <root id="archive" name="advancedcrafting.jar">
+      <element id="module-output" name="advancedtools" />
+    </root>
+  </artifact>
+</component>
